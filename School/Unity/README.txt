@@ -1,0 +1,1 @@
+To run thee games, find the .exe file named after the folder the game is in and control the characters with either the arrow keys or the WASD keys (the control scheme depends on the game, and the flappy bird clone uses the space bar alone)
